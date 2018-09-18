@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="50dp"
+    android:layout_height="wrap_content">
+<ImageView
+    android:clickable="true"
+    android:id="@+id/iv"
+    android:layout_width="100dp"
+    android:src="@mipmap/ic_video_drag_bg"
+    android:layout_height="200dp"/>
+</android.support.constraint.ConstraintLayout>
